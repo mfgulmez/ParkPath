@@ -1,0 +1,29 @@
+Fatih:
+-Gantt Chart
+*Researching Body Recognition Modules
+--Our project mainly consists of 5 different tasks. And the first one is researching body recognition modules. It is necessary to mention that our previous aspects was including recognition of the plates and due to that, some modules for text recognition were investigated, with that a yolov8 plate recognizer and a haarcascade face detector was evaluated but it was not an issue afterwards so several modules about body detection was researched as image processing, tracking the people, counting the resultment of this trackings and some thresholds that are related to prediction scores for example confidence level.
+
+*Data Gathering From Various Resources
+-- 2nd process is Data Gathering From Various Resources. Data is mainly gathered from a popular web source which is implemented for it known as kaggle. Even though several video databases are found about the pedestrian category, in other words people walking down some places or streets but one hardness for the process was finding real mall entrance or any other entrace's video source but that is not a big deal for the fact that pedestrian videos are also effective and suitable for the testing analysis of the body recognition model.
+
+*Investigation and Testing of Models(half)
+-- As I have previously mentioned, the aspects of the project was consisting plate recognition, and using yolov8 trained model from the data and specialized for recognizing plate boundries and also for the face recognition, and using text recognition packages as OCR, we have previously evaluated a model for these features but then continued to use MobilenetSSD as the aspects of the project was changed and also for the reasons that it is more fast and effective especially for recognizing bodies. 
+
+-Difficulties:
+  The project mainly consistent of 3 drawbacks, 
+--initially the choice of model is was an issue, as the reasons that i have mentioned before, and for the reasons that haarcascade is good for accuracy of the detections but can be slow in the concept of real-time detections while MobileSSD is enabling rapid and efficient analysis on the frames including wide variety of pre-defined objects like cats, chairs in other words the objects that can be encountered in several scenarios.
+
+--Gathering realistic data was also an issue for the fact that there are a ton of datasets for pedestrian category but not a few of actual webcam footage of an entrance but for the reasons of that wouldnt make much of a difference given the fact that they are pretty much alike.
+Musa:
+Gantt Chart
+*Investigation and Testing of Models(half)
+*Construction of Structure in Code
+
+
+
+Haktan:
+-Introduction
+Gantt Chart
+*Research and Implementation of the Libraries
+*Live Testing with Camera and Videos
+-Summary
